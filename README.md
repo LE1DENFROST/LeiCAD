@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.hizliresim.com/9jpe8xo.jpg" alt="LeiCAD Logo" width="150"/>
+  <img src="icon.jpg" alt="LeiCAD Logo" width="150"/>
 </p>
 
 <h1 align="center">LeiCAD - Web Tabanlı CAD Uygulaması (Beta)</h1>
@@ -143,6 +143,9 @@ LeiCAD için planladığımız bazı önemli geliştirmeler ve özellikler şunl
 * **Özelleştirme ve Ayarlar:**
   * Kullanıcı arayüzü tema seçenekleri.
   * Kısayol tuşu özelleştirmeleri.
+* **Yapay Zeka Entegreli Modüller:**
+  * AI Tabanlı Parselasyon işlemleri.
+  * AI Tabanlı Toplulaştırma Çalışmaları vs.
 * **Performans İyileştirmeleri:** Özellikle çok sayıda obje ile çalışırken.
 * **Mobil Uyumluluk:** Dokunmatik cihazlarda temel görüntüleme ve sorgulama.
 * **Detaylı Dokümantasyon ve Kullanım Kılavuzu.**
@@ -151,7 +154,7 @@ LeiCAD için planladığımız bazı önemli geliştirmeler ve özellikler şunl
 
 LeiCAD açık kaynaklı bir projedir ve topluluk katkılarına açıktır! Eğer projeye katkıda bulunmak isterseniz, aşağıdaki yolları izleyebilirsiniz:
 
-1. **Hata Bildirimi:** Karşılaştığınız hataları lütfen GitHub [Issues](https://github.com/kullanici_adiniz/leicad/issues) bölümünde detaylı bir şekilde bildirin.
+1. **Hata Bildirimi:** Karşılaştığınız hataları lütfen GitHub [Issues](https://github.com/LE1DENFROST/leicad/issues) bölümünde detaylı bir şekilde bildirin.
 2. **Özellik Talebi:** Eklenmesini istediğiniz özellikleri veya iyileştirme önerilerinizi Issues bölümünde paylaşın.
 3. **Kod Katkısı:**
    * Repoyu fork'layın.
